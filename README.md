@@ -1,4 +1,4 @@
 # 6Companies30days
- #6Companies30days #ReviseWithArsh
+ #6Companies30days #ReviseWithArs
  #Tough but not impossible to get a high paying job
 <!-- sdxsfcsddsf -->
