@@ -6,6 +6,6 @@ sum += mat[i][i] + mat[i][end];
 if (i == end)
 sum -= mat[i][end];
 }
-return sum;
+return summ;
 }
 }
